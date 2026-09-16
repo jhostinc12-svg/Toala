@@ -1,0 +1,274 @@
+{
+  "covers": {
+    "Cocinas": "imagenes/servicios/cocinas.png",
+    "Baños": "imagenes/servicios/ba-os.png",
+    "Muebles": "imagenes/servicios/muebles.png",
+    "Ebanistería": "imagenes/servicios/ebanister-a.jpeg",
+    "Gypsum y acabados": "imagenes/servicios/gypsum-y-acabados.jpeg",
+    "Pisos": "imagenes/servicios/pisos.jpeg",
+    "Plomería": "imagenes/servicios/plomer-a.jpeg"
+  },
+  "galleries": {
+    "Cocinas": [
+      {
+        "name": "Cocinas",
+        "images": [
+          "imagenes/proyectos/cocinas/general/foto-01.png",
+          "imagenes/proyectos/cocinas/general/foto-02.png",
+          "imagenes/proyectos/cocinas/general/foto-03.jpeg",
+          "imagenes/proyectos/cocinas/general/foto-04.jpeg",
+          "imagenes/proyectos/cocinas/general/foto-05.jpeg",
+          "imagenes/proyectos/cocinas/general/foto-06.jpeg",
+          "imagenes/proyectos/cocinas/general/foto-07.jpeg",
+          "imagenes/proyectos/cocinas/general/foto-08.jpeg",
+          "imagenes/proyectos/cocinas/general/foto-09.jpeg",
+          "imagenes/proyectos/cocinas/general/foto-10.jpeg",
+          "imagenes/proyectos/cocinas/general/foto-11.jpeg",
+          "imagenes/proyectos/cocinas/general/foto-12.jpeg",
+          "imagenes/proyectos/cocinas/general/foto-13.jpeg"
+        ]
+      }
+    ],
+    "Baños": [
+      {
+        "name": "INSTALACIÓN DE VIDRIO DE DUCHA",
+        "images": [
+          "imagenes/proyectos/ba-os/instalaci-n-de-vidrio-de-ducha/foto-01.jpeg"
+        ]
+      },
+      {
+        "name": "MUEBLE DE BAÑO, PH VISTA PARK, EL CARMEN",
+        "images": [
+          "imagenes/proyectos/ba-os/mueble-de-ba-o-ph-vista-park-el-carmen/foto-01.png"
+        ]
+      }
+    ],
+    "Muebles": [
+      {
+        "name": "Mueble de baño · PH Vista Park, El Carmen",
+        "images": [
+          "imagenes/proyectos/muebles/ph-vista-park/foto-01.png"
+        ]
+      }
+    ],
+    "Ebanistería": [
+      {
+        "name": "CONFECCIÓN DE CLOSET, DON BOSCO",
+        "images": [
+          "imagenes/proyectos/ebanister-a/confecci-n-de-closet-don-bosco/foto-01.jpeg",
+          "imagenes/proyectos/ebanister-a/confecci-n-de-closet-don-bosco/foto-02.jpeg",
+          "imagenes/proyectos/ebanister-a/confecci-n-de-closet-don-bosco/foto-03.jpeg",
+          "imagenes/proyectos/ebanister-a/confecci-n-de-closet-don-bosco/foto-04.jpeg"
+        ]
+      },
+      {
+        "name": "CONFECCIÓN DE PUERTA",
+        "images": [
+          "imagenes/proyectos/ebanister-a/confecci-n-de-puerta/foto-01.jpeg",
+          "imagenes/proyectos/ebanister-a/confecci-n-de-puerta/foto-02.jpeg",
+          "imagenes/proyectos/ebanister-a/confecci-n-de-puerta/foto-03.jpeg"
+        ]
+      },
+      {
+        "name": "CONFECCIÓN DE PUERTA CORREDIZA, COSTA DEL ESTE, PH PARQUE DEL ESTE",
+        "images": [
+          "imagenes/proyectos/ebanister-a/confecci-n-de-puerta-corrediza-costa-del-este-ph-parque-del-este/foto-01.jpeg",
+          "imagenes/proyectos/ebanister-a/confecci-n-de-puerta-corrediza-costa-del-este-ph-parque-del-este/foto-02.jpeg",
+          "imagenes/proyectos/ebanister-a/confecci-n-de-puerta-corrediza-costa-del-este-ph-parque-del-este/foto-03.jpeg",
+          "imagenes/proyectos/ebanister-a/confecci-n-de-puerta-corrediza-costa-del-este-ph-parque-del-este/foto-04.jpeg",
+          "imagenes/proyectos/ebanister-a/confecci-n-de-puerta-corrediza-costa-del-este-ph-parque-del-este/foto-05.jpeg"
+        ]
+      },
+      {
+        "name": "CONFECCIÓN DE PUERTA, LUNA DEL MAR, COCO DEL MAR",
+        "images": [
+          "imagenes/proyectos/ebanister-a/confecci-n-de-puerta-luna-del-mar-coco-del-mar/foto-01.jpeg",
+          "imagenes/proyectos/ebanister-a/confecci-n-de-puerta-luna-del-mar-coco-del-mar/foto-02.jpeg",
+          "imagenes/proyectos/ebanister-a/confecci-n-de-puerta-luna-del-mar-coco-del-mar/foto-03.jpeg",
+          "imagenes/proyectos/ebanister-a/confecci-n-de-puerta-luna-del-mar-coco-del-mar/foto-04.jpeg",
+          "imagenes/proyectos/ebanister-a/confecci-n-de-puerta-luna-del-mar-coco-del-mar/foto-05.jpeg",
+          "imagenes/proyectos/ebanister-a/confecci-n-de-puerta-luna-del-mar-coco-del-mar/foto-06.jpeg",
+          "imagenes/proyectos/ebanister-a/confecci-n-de-puerta-luna-del-mar-coco-del-mar/foto-07.jpeg",
+          "imagenes/proyectos/ebanister-a/confecci-n-de-puerta-luna-del-mar-coco-del-mar/foto-08.jpeg"
+        ]
+      },
+      {
+        "name": "CONFECCIÓN DE PUERTA, PH VISTAPARK, EL CARMEN",
+        "images": [
+          "imagenes/proyectos/ebanister-a/confecci-n-de-puerta-ph-vistapark-el-carmen/foto-01.jpeg",
+          "imagenes/proyectos/ebanister-a/confecci-n-de-puerta-ph-vistapark-el-carmen/foto-02.jpeg"
+        ]
+      },
+      {
+        "name": "CONFECCIÓN DE PUERTAS DE OFICINA",
+        "images": [
+          "imagenes/proyectos/ebanister-a/confecci-n-de-puertas-de-oficina/foto-01.jpeg",
+          "imagenes/proyectos/ebanister-a/confecci-n-de-puertas-de-oficina/foto-02.jpeg",
+          "imagenes/proyectos/ebanister-a/confecci-n-de-puertas-de-oficina/foto-03.jpeg",
+          "imagenes/proyectos/ebanister-a/confecci-n-de-puertas-de-oficina/foto-04.jpeg"
+        ]
+      },
+      {
+        "name": "CONFECCIÓN DE PUERTAS DE OFICINA, PH TIMES SQUARE CENTER, COSTA DEL ESTE",
+        "images": [
+          "imagenes/proyectos/ebanister-a/confecci-n-de-puertas-de-oficina-ph-times-square-center-costa-del-este/foto-01.jpeg",
+          "imagenes/proyectos/ebanister-a/confecci-n-de-puertas-de-oficina-ph-times-square-center-costa-del-este/foto-02.jpeg",
+          "imagenes/proyectos/ebanister-a/confecci-n-de-puertas-de-oficina-ph-times-square-center-costa-del-este/foto-03.jpeg",
+          "imagenes/proyectos/ebanister-a/confecci-n-de-puertas-de-oficina-ph-times-square-center-costa-del-este/foto-04.jpeg",
+          "imagenes/proyectos/ebanister-a/confecci-n-de-puertas-de-oficina-ph-times-square-center-costa-del-este/foto-05.jpeg",
+          "imagenes/proyectos/ebanister-a/confecci-n-de-puertas-de-oficina-ph-times-square-center-costa-del-este/foto-06.jpeg",
+          "imagenes/proyectos/ebanister-a/confecci-n-de-puertas-de-oficina-ph-times-square-center-costa-del-este/foto-07.jpeg"
+        ]
+      },
+      {
+        "name": "MUEBLE WALKING CLOSET",
+        "images": [
+          "imagenes/proyectos/ebanister-a/mueble-walking-closet/foto-01.jpeg",
+          "imagenes/proyectos/ebanister-a/mueble-walking-closet/foto-02.jpeg",
+          "imagenes/proyectos/ebanister-a/mueble-walking-closet/foto-03.jpeg",
+          "imagenes/proyectos/ebanister-a/mueble-walking-closet/foto-04.jpeg"
+        ]
+      }
+    ],
+    "Gypsum y acabados": [
+      {
+        "name": "CONFECCIÓN DE PARED DE GYPSUM SPORTLINE, MEGAMALL",
+        "images": [
+          "imagenes/proyectos/gypsum-y-acabados/confecci-n-de-pared-de-gypsum-sportline-megamall/foto-01.jpeg",
+          "imagenes/proyectos/gypsum-y-acabados/confecci-n-de-pared-de-gypsum-sportline-megamall/foto-02.jpeg",
+          "imagenes/proyectos/gypsum-y-acabados/confecci-n-de-pared-de-gypsum-sportline-megamall/foto-03.jpeg",
+          "imagenes/proyectos/gypsum-y-acabados/confecci-n-de-pared-de-gypsum-sportline-megamall/foto-04.jpeg"
+        ]
+      },
+      {
+        "name": "MANTENIMIENTO DE GYPSUM, SPORTLINE, MULTIPLAZA",
+        "images": [
+          "imagenes/proyectos/gypsum-y-acabados/mantenimiento-de-gypsum-sportline-multiplaza/foto-01.jpeg",
+          "imagenes/proyectos/gypsum-y-acabados/mantenimiento-de-gypsum-sportline-multiplaza/foto-02.jpeg",
+          "imagenes/proyectos/gypsum-y-acabados/mantenimiento-de-gypsum-sportline-multiplaza/foto-03.jpeg",
+          "imagenes/proyectos/gypsum-y-acabados/mantenimiento-de-gypsum-sportline-multiplaza/foto-04.jpeg",
+          "imagenes/proyectos/gypsum-y-acabados/mantenimiento-de-gypsum-sportline-multiplaza/foto-05.jpeg",
+          "imagenes/proyectos/gypsum-y-acabados/mantenimiento-de-gypsum-sportline-multiplaza/foto-06.jpeg"
+        ]
+      },
+      {
+        "name": "MOLDURAS DE PARED",
+        "images": [
+          "imagenes/proyectos/gypsum-y-acabados/molduras-de-pared/foto-01.jpeg",
+          "imagenes/proyectos/gypsum-y-acabados/molduras-de-pared/foto-02.jpeg",
+          "imagenes/proyectos/gypsum-y-acabados/molduras-de-pared/foto-03.jpeg",
+          "imagenes/proyectos/gypsum-y-acabados/molduras-de-pared/foto-04.jpeg"
+        ]
+      }
+    ],
+    "Pisos": [
+      {
+        "name": "Pisos",
+        "images": [
+          "imagenes/proyectos/pisos/general/foto-01.jpeg"
+        ]
+      }
+    ],
+    "Plomería": [
+      {
+        "name": "INSTALACIÓN DE PLOMERÍA",
+        "images": [
+          "imagenes/proyectos/plomer-a/instalaci-n-de-plomer-a/foto-01.jpeg",
+          "imagenes/proyectos/plomer-a/instalaci-n-de-plomer-a/foto-02.jpeg",
+          "imagenes/proyectos/plomer-a/instalaci-n-de-plomer-a/foto-03.jpeg",
+          "imagenes/proyectos/plomer-a/instalaci-n-de-plomer-a/foto-04.jpeg",
+          "imagenes/proyectos/plomer-a/instalaci-n-de-plomer-a/foto-05.jpeg",
+          "imagenes/proyectos/plomer-a/instalaci-n-de-plomer-a/foto-06.jpeg",
+          "imagenes/proyectos/plomer-a/instalaci-n-de-plomer-a/foto-07.jpeg"
+        ]
+      }
+    ]
+  },
+  "hero_slides": [
+    {
+      "service": "Cocinas",
+      "category": "Cocinas",
+      "image": "imagenes/proyectos/cocinas/general/foto-01.png"
+    },
+    {
+      "service": "INSTALACIÓN DE VIDRIO DE DUCHA",
+      "category": "Baños",
+      "image": "imagenes/proyectos/ba-os/instalaci-n-de-vidrio-de-ducha/foto-01.jpeg"
+    },
+    {
+      "service": "MUEBLE DE BAÑO, PH VISTA PARK, EL CARMEN",
+      "category": "Baños",
+      "image": "imagenes/proyectos/ba-os/mueble-de-ba-o-ph-vista-park-el-carmen/foto-01.png"
+    },
+    {
+      "service": "Mueble de baño · PH Vista Park, El Carmen",
+      "category": "Muebles",
+      "image": "imagenes/proyectos/muebles/ph-vista-park/foto-01.png"
+    },
+    {
+      "service": "CONFECCIÓN DE CLOSET, DON BOSCO",
+      "category": "Ebanistería",
+      "image": "imagenes/proyectos/ebanister-a/confecci-n-de-closet-don-bosco/foto-01.jpeg"
+    },
+    {
+      "service": "CONFECCIÓN DE PUERTA",
+      "category": "Ebanistería",
+      "image": "imagenes/proyectos/ebanister-a/confecci-n-de-puerta/foto-01.jpeg"
+    },
+    {
+      "service": "CONFECCIÓN DE PUERTA CORREDIZA, COSTA DEL ESTE, PH PARQUE DEL ESTE",
+      "category": "Ebanistería",
+      "image": "imagenes/proyectos/ebanister-a/confecci-n-de-puerta-corrediza-costa-del-este-ph-parque-del-este/foto-01.jpeg"
+    },
+    {
+      "service": "CONFECCIÓN DE PUERTA, LUNA DEL MAR, COCO DEL MAR",
+      "category": "Ebanistería",
+      "image": "imagenes/proyectos/ebanister-a/confecci-n-de-puerta-luna-del-mar-coco-del-mar/foto-01.jpeg"
+    },
+    {
+      "service": "CONFECCIÓN DE PUERTA, PH VISTAPARK, EL CARMEN",
+      "category": "Ebanistería",
+      "image": "imagenes/proyectos/ebanister-a/confecci-n-de-puerta-ph-vistapark-el-carmen/foto-01.jpeg"
+    },
+    {
+      "service": "CONFECCIÓN DE PUERTAS DE OFICINA",
+      "category": "Ebanistería",
+      "image": "imagenes/proyectos/ebanister-a/confecci-n-de-puertas-de-oficina/foto-01.jpeg"
+    },
+    {
+      "service": "CONFECCIÓN DE PUERTAS DE OFICINA, PH TIMES SQUARE CENTER, COSTA DEL ESTE",
+      "category": "Ebanistería",
+      "image": "imagenes/proyectos/ebanister-a/confecci-n-de-puertas-de-oficina-ph-times-square-center-costa-del-este/foto-01.jpeg"
+    },
+    {
+      "service": "MUEBLE WALKING CLOSET",
+      "category": "Ebanistería",
+      "image": "imagenes/proyectos/ebanister-a/mueble-walking-closet/foto-01.jpeg"
+    },
+    {
+      "service": "CONFECCIÓN DE PARED DE GYPSUM SPORTLINE, MEGAMALL",
+      "category": "Gypsum y acabados",
+      "image": "imagenes/proyectos/gypsum-y-acabados/confecci-n-de-pared-de-gypsum-sportline-megamall/foto-01.jpeg"
+    },
+    {
+      "service": "MANTENIMIENTO DE GYPSUM, SPORTLINE, MULTIPLAZA",
+      "category": "Gypsum y acabados",
+      "image": "imagenes/proyectos/gypsum-y-acabados/mantenimiento-de-gypsum-sportline-multiplaza/foto-01.jpeg"
+    },
+    {
+      "service": "MOLDURAS DE PARED",
+      "category": "Gypsum y acabados",
+      "image": "imagenes/proyectos/gypsum-y-acabados/molduras-de-pared/foto-01.jpeg"
+    },
+    {
+      "service": "Pisos",
+      "category": "Pisos",
+      "image": "imagenes/proyectos/pisos/general/foto-01.jpeg"
+    },
+    {
+      "service": "INSTALACIÓN DE PLOMERÍA",
+      "category": "Plomería",
+      "image": "imagenes/proyectos/plomer-a/instalaci-n-de-plomer-a/foto-01.jpeg"
+    }
+  ]
+}
